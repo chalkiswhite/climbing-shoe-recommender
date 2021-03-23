@@ -22,7 +22,7 @@ Sell more | Make better decisions when buying
 Need to buy new climbing shoes:
 
 * Someone new to the sport:
-  * unexpirienced: never bought climbing shoes before
+  * unexperienced: never bought climbing shoes before
   * first steps in climbing: searching a more comfortable shoe to start the journey
   * spending his time mainly with one climbing style
 
@@ -53,7 +53,7 @@ Climbing shoes of the month | |
 Experts  | Customers
 ------------ | -------------
 Much knowledge | Opinion of the mass
-More expirience | Homogenous group of different people
+More experience | Homogenous group of different people
 Could be professional | broad range from beginner to expert
 
 
@@ -103,10 +103,10 @@ Possible weighted rating calculations:
 
 weight  | feature | value
 ------------ | ------------- | -------------
-w1 | expirience | 100
+w1 | experience | 100
 w2 | using_frequency | 50
 w3 | climbing_grade | 15
 
-IR = (w1 x expirience) + (w2 x using_frequency) + (w3 x climbing_grade)
+IR = (w1 x experience) + (w2 x using_frequency) + (w3 x climbing_grade)
 
 
