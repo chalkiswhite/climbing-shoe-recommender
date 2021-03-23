@@ -93,4 +93,20 @@ Collaborative Filtering  | Content-based Filtering | Hybrid Recommender
 ------------ | ------------- | -------------
 
 
+# Ideas
+
+## Implicit Ratings
+
+### Weighting
+
+Possible weighted rating calculations:
+
+weight  | feature | value
+------------ | ------------- | -------------
+w1 | expirience | 100
+w2 | using_frequency | 50
+w3 | climbing_grade | 15
+
+IR = (w1 x expirience) + (w2 x using_frequency) + (w3 x climbing_grade)
+
 
