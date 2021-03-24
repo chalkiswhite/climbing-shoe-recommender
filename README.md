@@ -1,4 +1,4 @@
-# climbing-shoe-predictor
+# climbing-shoe-recommender
 
 # Taxonomy of a Recommender System for climbing shoes
 (John Riel and Joseph A. Konstan, *'Word of Mouse: The Marketing Power of Collaborative Filtering', Business Plus, 2002*)
